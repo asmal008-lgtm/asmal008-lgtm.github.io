@@ -16,6 +16,10 @@ I'm using Python and Steam player reviews to investigate player engagement and e
 
 [View My Data Science Project](https://colab.research.google.com/drive/1iZp_1cGPmsbGkxdiKVztg-MU43nOu483)
 
+## Resume
+
+[Download My Resume (PDF)](resume.pdf)
+
 ## Skills I'm Developing
 
 - Python
