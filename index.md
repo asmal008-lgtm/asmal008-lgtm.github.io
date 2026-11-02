@@ -1,6 +1,6 @@
 
 # Amari Smalls
-
+![Professional Photo](profile.jpg)
 Graduate Student | Old Dominion University
 
 ## About Me
